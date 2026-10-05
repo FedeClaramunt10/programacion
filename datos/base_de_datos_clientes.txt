@@ -1,0 +1,7 @@
+﻿fede|clara|30000000|san martin|05/02/2025
+juan|rios|121212|la banda|02/02/2025
+ii|ii|ii|ii|03/04/2025
+ee|ee|ee|ee|01/11/2025
+ww|ww|ww|ww|02/02/2024
+as|a|a|a|12/12/2000
+cliente|ejemplo|2020202020|M1SHDHS|04/04/2025
